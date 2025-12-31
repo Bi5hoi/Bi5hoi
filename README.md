@@ -1,6 +1,10 @@
 👋 About Me
 
-Junior Back-End Developer with hands-on experience in developing desktop applications using .NET Framework, C#, Windows Forms, and Windows Services. Skilled in building data access layers with ADO.NET, SQL Server, and T-SQL. Strong understanding of data structures and software design principles. Experienced in designing and implementing RESTful APIs using ASP.NET Core with JWT authentication, applying Repository Pattern, Dependency Injection, and SOLID Principles. Proficient in LINQ and Entity Framework Core for efficient data access and manipulation. Currently expanding expertise in web development technologies and modern full-stack architecture.
+I’m an entry-level .NET Back-End Developer with strong fundamentals in C#, OOP, and Data Structures.
+
+I built desktop projects using .NET Framework (Windows Forms, Windows Services), integrated with SQL Server and T-SQL. I’m comfortable building data access layers using ADO.NET, and I use clean code practices and solid design principles.
+
+I’m currently learning and practicing ASP.NET Core Web API concepts, including RESTful design and JWT authentication, while applying SOLID Principles, Dependency Injection, and the Repository Pattern. I’ve also started learning HTML as part of my web development journey.
 
 🚀 Tech Stack
 🧠 Languages
